@@ -1,0 +1,28 @@
+{
+    "os": "macOS-12.6-arm64-arm-64bit",
+    "python": "3.10.4",
+    "heartbeatAt": "2023-03-27T18:39:24.191132",
+    "startedAt": "2023-03-27T18:39:23.569318",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/masahiro/dev/wandb_example/main.py",
+    "codePath": "main.py",
+    "host": "MasahiroIshiinoMacBook-Pro.local",
+    "username": "masahiro",
+    "executable": "/Users/masahiro/Library/Caches/pypoetry/virtualenvs/wandb-example-vja2QH-s-py3.10/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 20.417076110839844
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

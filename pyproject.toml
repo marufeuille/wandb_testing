@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "wandb-example"
+version = "0.1.0"
+description = ""
+authors = ["Masahiro Ishii <marufeuille@gmail.com>"]
+readme = "README.md"
+packages = [{include = "wandb_example"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+wandb = "^0.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
